@@ -4,6 +4,7 @@ num1_str=str(num1) # cast num1 to string and assign to num1_str
 num2=str(num2)
 num3=str(num3)
 
+
 print(len(num1_str)) # check the length of the string
 print(num1_str[2]) # get the third element of string (the one in the 3rd order)
 print(num1_str[2:5]) # get the 3-5 elements of string (both inclusive) by string slicing
